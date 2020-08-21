@@ -5,18 +5,22 @@ Sites intéressants pour coder
 -  [Exercism](https://exercism.io)
 -  [Advent of Code](https://adventofcode.com)
 
-Web-Services
--  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
--  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](Deploying a REST API with Rust, Diesel, Rocket, and MySQL)
-
 ## Go
+
+-  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
 
 ### Databases / ORM
 -  [GORM](https://github.com/go-gorm/gorm)
 -  [sqlx](https://github.com/jmoiron/sqlx)
 
-
 ## Rust
+
+### Actix-web
+-  [Using SQLite with Rust and Actix Web](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95)
+-  [Rust API with Diesel and r2d2 on MySQL](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95))
+
+### Rocket
+-  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](Deploying a REST API with Rust, Diesel, Rocket, and MySQL)
 
 ### Databases / ORM
 -  [Diesel](https://github.com/diesel-rs/diesel)
