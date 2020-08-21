@@ -7,6 +7,7 @@ Sites intéressants pour coder
 
 Web-Services
 -  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
+-  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](Deploying a REST API with Rust, Diesel, Rocket, and MySQL)
 
 ## Go
 
