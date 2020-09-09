@@ -15,6 +15,9 @@ Sites intéressants pour coder
 
 ## Rust
 
+### Apprentissage
+-  [RustLabs](https://rustlabs.kubedaily.com/)
+
 ### Actix-web
 -  [Using SQLite with Rust and Actix Web](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95)
 -  [Rust API with Diesel and r2d2 on MySQL](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95))
