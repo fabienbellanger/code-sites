@@ -24,7 +24,7 @@ Sites intéressants pour coder
 -  [Build an API in Rust with JWT Authentication](https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/)
 
 ### Rocket
--  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](Deploying a REST API with Rust, Diesel, Rocket, and MySQL)
+-  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
 
 ### Databases / ORM
 -  [Diesel](https://github.com/diesel-rs/diesel)
