@@ -22,6 +22,8 @@ Sites intéressants pour coder
 -  [Using SQLite with Rust and Actix Web](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95)
 -  [Rust API with Diesel and r2d2 on MySQL](https://blog.sufrago.com/rust-api-with-diesel-and-r2d2-on-mysql/)
 -  [Build an API in Rust with JWT Authentication](https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/)
+-  [Actix-web REST API with JWT](https://github.com/SakaDream/actix-web-rest-api-with-jwt)
+-  [Actix Web JWT Example](https://github.com/emreyalvac/actix-web-jwt)
 
 ### Rocket
 -  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
