@@ -33,5 +33,5 @@ Sites intéressants pour coder
 -  [sqlx](https://github.com/launchbadge/sqlx)
 
 ### Templating
--  [Tera]{https://github.com/Keats/tera}
--  [Askama]{https://github.com/djc/askama}
+-  [Tera](https://github.com/Keats/tera)
+-  [Askama](https://github.com/djc/askama)
