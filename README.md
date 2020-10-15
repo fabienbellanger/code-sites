@@ -18,6 +18,7 @@ Sites intéressants pour coder
 ### Apprentissage
 -  [RustLabs](https://rustlabs.kubedaily.com/)
 -  [Are We Web Yet](https://www.arewewebyet.org/)
+-  [Découverte du langage Rust](https://nanocryk.github.io/rust-workshops/intro.html#1)
 
 ### Actix-web
 -  [Using SQLite with Rust and Actix Web](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95)
