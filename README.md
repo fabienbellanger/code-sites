@@ -16,6 +16,11 @@ Sites intéressants pour coder
 ## Rust
 
 ### Apprentissage
+-  [Rust Book](https://doc.rust-lang.org/book/)
+-  [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+-  [Async/Await Book](https://rust-lang.github.io/async-book/)
+-  [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+-  [rustdoc](https://doc.rust-lang.org/rustdoc/index.html)
 -  [RustLabs](https://rustlabs.kubedaily.com/)
 -  [Are We Web Yet](https://www.arewewebyet.org/)
 -  [Découverte du langage Rust](https://nanocryk.github.io/rust-workshops/intro.html#1)
