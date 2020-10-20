@@ -9,6 +9,9 @@ Sites intéressants pour coder
 
 -  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
 
+### Fiber
+-  [How to create an API with Golang and Fiber](https://github.com/bootmind/figo-api)
+
 ### Databases / ORM
 -  [GORM](https://github.com/go-gorm/gorm)
 -  [sqlx](https://github.com/jmoiron/sqlx)
