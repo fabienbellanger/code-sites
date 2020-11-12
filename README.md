@@ -16,6 +16,13 @@ Sites intéressants pour coder
 -  [GORM](https://github.com/go-gorm/gorm)
 -  [sqlx](https://github.com/jmoiron/sqlx)
 
+### Concurrency
+
+#### Workers pool
+-  [Golang : Creating a concurrent worker pool](https://www.prakharsrivastav.com/posts/golang-concurrent-worker-pool/) => [repo Git](https://github.com/PrakharSrivastav/workers)
+-  [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
+-  [Write a Go Worker Pool in 15 minutes](https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923)
+
 ## Rust
 
 ### Apprentissage
