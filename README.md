@@ -26,6 +26,9 @@ Sites intéressants pour coder
 -  [The Case For A Go Worker Pool](https://brandur.org/go-worker-pool)
 -  [Write a Go Worker Pool in 15 minutes](https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923)
 
+#### sync.Pool
+-  [Using sync.Pool](https://developer20.com/using-sync-pool/)
+
 ## Rust
 
 ### Apprentissage
