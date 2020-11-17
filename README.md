@@ -9,6 +9,9 @@ Sites intéressants pour coder
 
 -  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
 
+### Embedded static files
+-  [packr](https://github.com/gobuffalo/packr)
+
 ### Fiber
 -  [How to create an API with Golang and Fiber](https://github.com/bootmind/figo-api)
 
