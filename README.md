@@ -11,6 +11,7 @@ Sites intéressants pour coder
 
 ### Embedded static files
 -  [packr](https://github.com/markbates/pkger)
+-  [Embarquer des templates avec pkger](https://osinet.fr/go/articles/inclusion-de-templates-avec-pkger/)
 
 ### Fiber
 -  [How to create an API with Golang and Fiber](https://github.com/bootmind/figo-api)
