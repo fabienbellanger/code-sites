@@ -49,6 +49,7 @@ Sites intéressants pour coder
 -  [Build an API in Rust with JWT Authentication](https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/)
 -  [Actix-web REST API with JWT](https://github.com/SakaDream/actix-web-rest-api-with-jwt)
 -  [Actix Web JWT Example](https://github.com/emreyalvac/actix-web-jwt)
+-  [How To Bootstrap A Rust Web API From Scratch](https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/#5-next-up)
 
 ### Rocket
 -  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
