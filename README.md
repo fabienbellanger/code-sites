@@ -15,6 +15,7 @@ Sites intéressants pour coder
 
 ### Fiber
 -  [How to create an API with Golang and Fiber](https://github.com/bootmind/figo-api)
+-  [Fiber Boilerplate](https://github.com/thomasvvugt/fiber-boilerplate)
 
 ### Databases / ORM
 -  [GORM](https://github.com/go-gorm/gorm)
