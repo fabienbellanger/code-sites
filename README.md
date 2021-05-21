@@ -7,8 +7,6 @@ Sites intéressants pour coder
 
 ## Go
 
--  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
-
 ### Embedded static files
 -  [packr](https://github.com/markbates/pkger)
 -  [Embarquer des templates avec pkger](https://osinet.fr/go/articles/inclusion-de-templates-avec-pkger/)
@@ -21,6 +19,10 @@ Sites intéressants pour coder
 -  [GORM](https://github.com/go-gorm/gorm)
 -  [sqlx](https://github.com/jmoiron/sqlx)
 
+### Architecture
+-  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
+-  [Go Clean Architecture](https://codism.io/go-clean-architecture-an-introduction)
+
 ### Concurrency
 
 #### Workers pool
@@ -30,6 +32,9 @@ Sites intéressants pour coder
 
 #### sync.Pool
 -  [Using sync.Pool](https://developer20.com/using-sync-pool/)
+
+### Divers
+-  [How to Create a Real-time Chat Application using Socket.IO, Golang, and VueJS?](https://www.bacancytechnology.com/blog/real-time-chat-application-using-socketio-golang-vuejs)
 
 ## Rust
 
