@@ -20,7 +20,7 @@ Sites intéressants pour coder
 -  [sqlx](https://github.com/jmoiron/sqlx)
 
 ### Architecture
--  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
+-  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
 -  [Go Clean Architecture](https://codism.io/go-clean-architecture-an-introduction)
 
 ### Concurrency
@@ -32,6 +32,9 @@ Sites intéressants pour coder
 
 #### sync.Pool
 -  [Using sync.Pool](https://developer20.com/using-sync-pool/)
+
+### WebAssembly
+-  [WebAssembly: Introduction to WebAssembly using Go](https://golangbot.com/webassembly-using-go/)
 
 ### Divers
 -  [How to Create a Real-time Chat Application using Socket.IO, Golang, and VueJS?](https://www.bacancytechnology.com/blog/real-time-chat-application-using-socketio-golang-vuejs)
