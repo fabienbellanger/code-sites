@@ -14,6 +14,7 @@ Sites intéressants pour coder
 ### Fiber
 -  [How to create an API with Golang and Fiber](https://github.com/bootmind/figo-api)
 -  [Fiber Boilerplate](https://github.com/thomasvvugt/fiber-boilerplate)
+-  [Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
 
 ### Databases / ORM
 -  [GORM](https://github.com/go-gorm/gorm)
