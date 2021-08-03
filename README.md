@@ -37,6 +37,9 @@ Sites intéressants pour coder
 ### WebAssembly
 -  [WebAssembly: Introduction to WebAssembly using Go](https://golangbot.com/webassembly-using-go/)
 
+### GUI
+-  [Fyne](https://fyne.io/)
+
 ### Divers
 -  [How to Create a Real-time Chat Application using Socket.IO, Golang, and VueJS?](https://www.bacancytechnology.com/blog/real-time-chat-application-using-socketio-golang-vuejs)
 
