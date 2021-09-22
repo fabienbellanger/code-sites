@@ -68,6 +68,9 @@ Sites intéressants pour coder
 ### Rocket
 -  [Deploying a REST API with Rust, Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
 
+### Axum
+-  Web Framework based on Tokio ecosystem [Github](https://github.com/tokio-rs/axum)
+
 ### Databases / ORM
 -  [Diesel](https://github.com/diesel-rs/diesel)
 -  [sqlx](https://github.com/launchbadge/sqlx)
