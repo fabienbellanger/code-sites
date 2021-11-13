@@ -71,6 +71,9 @@ Sites intéressants pour coder
 ### Axum
 -  Web Framework based on Tokio ecosystem [Github](https://github.com/tokio-rs/axum)
 
+### Poem
+-  Web Framework based on Hyper and Tokio ecosystem [Github](https://github.com/poem-web/poem) | [Book](https://poem.rs/poem.html)
+
 ### Databases / ORM
 -  [Diesel](https://github.com/diesel-rs/diesel)
 -  [sqlx](https://github.com/launchbadge/sqlx)
