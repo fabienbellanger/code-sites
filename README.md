@@ -57,6 +57,10 @@ Sites intéressants pour coder
 -  [Rust Language Cheat Sheet](https://cheats.rs/)
 -  [The Rust Performance Book](https://nnethercote.github.io/perf-book/profiling.html)
 
+### Cargo
+-  [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
+-  [cargo-outdated](https://github.com/kbknapp/cargo-outdated)
+
 ### Actix-web
 -  [Using SQLite with Rust and Actix Web](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95)
 -  [Rust API with Diesel and r2d2 on MySQL](https://blog.sufrago.com/rust-api-with-diesel-and-r2d2-on-mysql/)
