@@ -60,6 +60,12 @@ Sites intéressants pour coder
 ### Cargo
 -  [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
 -  [cargo-outdated](https://github.com/kbknapp/cargo-outdated)
+-  [cargo-make](https://github.com/sagiegurari/cargo-make)
+-  [cargo-edit](https://crates.io/crates/cargo-edit)
+-  [cargo-modules](https://github.com/regexident/cargo-modules)
+-  [cargo-outdated](https://github.com/kbknapp/cargo-outdated)
+-  [cargo-make](https://github.com/sagiegurari/cargo-make)
+-  [cargo-edit](https://crates.io/crates/cargo-edit)
 
 ### Actix-web
 -  [Using SQLite with Rust and Actix Web](https://levelup.gitconnected.com/using-sqlite-with-rust-and-actix-web-with-tests-11a935ac3d95)
