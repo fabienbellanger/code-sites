@@ -43,6 +43,9 @@ Sites intéressants pour coder
 ### Divers
 -  [How to Create a Real-time Chat Application using Socket.IO, Golang, and VueJS?](https://www.bacancytechnology.com/blog/real-time-chat-application-using-socketio-golang-vuejs)
 
+### i18n
+- [I18n in Go: Managing Translations](https://www.alexedwards.net/blog/i18n-managing-translations)
+
 ## Rust
 
 ### Apprentissage
