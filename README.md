@@ -23,6 +23,7 @@ Sites intéressants pour coder
 ### Architecture
 -  [GopherCon 2019 - How I write HTTP web services after eight years](https://about.sourcegraph.com/go/gophercon-2019-how-i-write-http-web-services-after-eight-years)
 -  [Go Clean Architecture](https://codism.io/go-clean-architecture-an-introduction)
+-  [Developing a Web Application in Go using the Layered Architecture](https://medium.com/swlh/developing-a-web-application-in-go-using-the-layered-architecture-8fc13209c808)
 
 ### Concurrency
 
