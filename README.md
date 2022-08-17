@@ -60,6 +60,7 @@ Sites intéressants pour coder
 -  [Découverte du langage Rust](https://nanocryk.github.io/rust-workshops/intro.html#1)
 -  [Rust Language Cheat Sheet](https://cheats.rs/)
 -  [The Rust Performance Book](https://nnethercote.github.io/perf-book/profiling.html)
+-  [Pin and suffering](https://fasterthanli.me/articles/pin-and-suffering)
 
 ### Cargo
 -  [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
