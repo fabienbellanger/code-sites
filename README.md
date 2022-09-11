@@ -7,6 +7,9 @@ Sites intéressants pour coder
 
 ## Go
 
+### Frameworks / Routers
+-  [BunRouter](https://bunrouter.uptrace.dev/)
+
 ### Embedded static files
 -  [packr](https://github.com/markbates/pkger)
 -  [Embarquer des templates avec pkger](https://osinet.fr/go/articles/inclusion-de-templates-avec-pkger/)
