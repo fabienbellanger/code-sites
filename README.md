@@ -5,6 +5,12 @@ Sites intéressants pour coder
 -  [Exercism](https://exercism.io)
 -  [Advent of Code](https://adventofcode.com)
 
+## Documentation des APIs
+[OpenAPI tools](https://openapi.tools/)
+
+### UI
+-  [RapiDoc](https://rapidocweb.com/)
+
 ## Go
 
 ### Frameworks / Routers
