@@ -105,3 +105,6 @@ Sites intéressants pour coder
 ### Templating
 -  [Tera](https://github.com/Keats/tera)
 -  [Askama](https://github.com/djc/askama)
+
+### Dynamic analysis tools
+-  [Valgrind](https://valgrind.org/) (Example of use [here](https://fasterthanli.me/series/advent-of-code-2022/part-16#profiling-our-code-with-the-valgrind-suite))
